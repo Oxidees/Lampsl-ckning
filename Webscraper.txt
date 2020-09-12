@@ -1,0 +1,8 @@
+2020/09/11 16:57:00 Totalt tändes/släcktes 0 lampor
+
+2020/09/11 16:57:57 Totalt tändes/släcktes 0 lampor
+
+2020/09/11 17:07:18 Totalt tändes/släcktes 3 lampor
+
+2020/09/11 20:33:39 Totalt tändes/släcktes 3 lampor 
+2020/09/12 12:28:30 Totalt tändes/släcktes 3 lampor 
